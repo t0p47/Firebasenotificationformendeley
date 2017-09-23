@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "597273350824",
+    "firebase_url": "https://notificationmendeley.firebaseio.com",
+    "project_id": "notificationmendeley",
+    "storage_bucket": "notificationmendeley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597273350824:android:0710a7e794a57b8e",
+        "android_client_info": {
+          "package_name": "mendeleynotification.application.com.firebasenotificationformendeley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597273350824-a50e50gtra66kkhplo54qc83lnfb4ctp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mendeleynotification.application.com.firebasenotificationformendeley",
+            "certificate_hash": "c7ae8fec0aae224fd8b426616afb817d4e3c3d57"
+          }
+        },
+        {
+          "client_id": "597273350824-1351bnsij7vtsam5lvbvsvuca422odj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvLb2MN1uIddMdbwAhjAiHBhtiwB0wDQ"
+        },
+        {
+          "current_key": "AIzaSyDVHB1DsvlvM0Za1oH3t-wYdW7-NVJ77vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597273350824-1351bnsij7vtsam5lvbvsvuca422odj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
